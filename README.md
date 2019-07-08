@@ -48,6 +48,13 @@ ProductId,OrderId,Price
 ## Тесты
 Тесты сделаны с помощью библиотеки `py.test` и находятся в файле `test_summary_report.py`.
 
+## Зависимости
+Для установки сторонних библиотек:
+
+```
+pip install -r requirements.txt
+```
+
 ## Задание №2 (SQL)
 
 ### Описание задания
